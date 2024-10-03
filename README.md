@@ -4,6 +4,8 @@
 
 The Internet of Things (IoT) is revolutionizing the way we interact with the world around us. By connecting everyday objects to the internet, IoT enables seamless communication and data exchange, creating smart environments that enhance efficiency, convenience, and sustainability. 
 
+<img src="https://media1.tenor.com/m/t3YlogZLsjoAAAAd/embedded-security-for-internet-of-things.gif" width="300" alt="Embedded Security for IoT">
+
 ## Key Concepts
 
 ### 1. **Connectivity** 📶
